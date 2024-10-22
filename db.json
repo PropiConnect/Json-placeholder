@@ -26,6 +26,58 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPqP_wovCNhRkAe3-HLtlvwmBNvlS9xU1aA&s",
         "initialPrice": 2500
       }
+      {
+        "id": 3,
+        "owner": "Carlos Mendoza",
+        "ownerId": 3,
+        "city": "Arequipa",
+        "type": "Venta",
+        "address": "Calle Los Robles 123",
+        "description": "Casa moderna con 4 habitaciones, 3 baños, amplia cocina y sala con ventanas grandes. Tiene un jardín trasero ideal para familias con niños. Ubicada en una zona tranquila cerca del centro.",
+        "propertyType": "House",
+        "rentalType": "Monthly",
+        "image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+        "initialPrice": 4200
+      },
+      {
+        "id": 4,
+        "owner": "Lucía Pérez",
+        "ownerId": 4,
+        "city": "Trujillo",
+        "type": "Alquiler",
+        "address": "Av. Pizarro 765",
+        "description": "Hermosa casa colonial restaurada con 5 habitaciones y 4 baños. Cuenta con techos altos y una gran terraza interior. Ideal para aquellos que buscan un estilo de vida tranquilo en una propiedad histórica.",
+        "propertyType": "House",
+        "rentalType": "Yearly",
+        "image": "https://images.pexels.com/photos/1047455/pexels-photo-1047455.jpeg",
+        "initialPrice": 6000
+      },
+      {
+        "id": 5,
+        "owner": "Mario Rojas",
+        "ownerId": 5,
+        "city": "Cusco",
+        "type": "Venta",
+        "address": "Jr. Los Andes 567",
+        "description": "Casa rústica con 3 habitaciones, chimenea y vistas panorámicas de las montañas. Perfecta para los amantes de la naturaleza y quienes buscan un refugio tranquilo lejos del bullicio de la ciudad.",
+        "propertyType": "House",
+        "rentalType": "Monthly",
+        "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        "initialPrice": 4800
+      },
+      {
+        "id": 6,
+        "owner": "María López",
+        "ownerId": 6,
+        "city": "Lima",
+        "type": "Alquiler",
+        "address": "Calle Primavera 200",
+        "description": "Moderna casa de dos pisos con piscina, jardín y 4 dormitorios. Ubicada en una zona exclusiva, esta propiedad ofrece lujo y comodidad, ideal para una familia grande.",
+        "propertyType": "House",
+        "rentalType": "Monthly",
+        "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg",
+        "initialPrice": 7500
+      }
     ],
     "users": [
       {
